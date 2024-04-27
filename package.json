@@ -1,0 +1,19 @@
+{
+  "name": "desafio2",
+  "version": "1.0.0",
+  "description": "Desafio 2 (y 1 remix) del modulo 7, bootcamp javascript de DesafioLatam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Silva Quiñones",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "chalk": "^4.1.2",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5"
+  }
+}
